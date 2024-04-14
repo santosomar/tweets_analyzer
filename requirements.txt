@@ -1,7 +1,7 @@
 ascii-graph==1.5.1
 certifi==2018.8.24
 chardet==3.0.4
-idna==2.7
+idna==3.7
 numpy==1.15.1
 oauthlib==2.1.0
 PySocks==1.6.8
